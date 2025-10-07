@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("Теперь всё объединим")
 	fmt.Println("Hello, Word")
 	fmt.Println("Изменение в ветке Main")
+	fmt.Println("--------------")
 }
