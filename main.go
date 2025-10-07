@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("Hello, Word")
+	fmt.Println("Hello, Word")
+	fmt.Println("Изменение в ветке Main")
 }
